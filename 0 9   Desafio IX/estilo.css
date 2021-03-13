@@ -1,0 +1,31 @@
+@charset "UTF-8";
+body{
+    background-color: black;
+    }
+h1{
+    text-align: center;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.videohistoria iframe{
+    padding-left:400px;
+
+    }
+.hardware iframe{
+    padding-left:400px;
+      }
+.javascript iframe{
+     padding-left:400px;
+
+     }
+.phyton iframe{
+    padding-left:400px;
+    }
+p{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+a img{
+    padding-left: 650px;
+    }
